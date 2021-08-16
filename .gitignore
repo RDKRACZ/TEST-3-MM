@@ -1,0 +1,30 @@
+# eclipse
+bin
+eclipse
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# gradle
+.gradle/
+build/
+out/
+classes/
+
+# other
+run/
+!LICENSE
+!README.*
+!.gitignore
+*.DS_Store*
+/.idea/
+/remappedSrc/
